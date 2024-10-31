@@ -1,2 +1,2 @@
-Адаптивная вёрстка сайта домов. 
-В верстке использовались всплывающее меню при клике на бургер, hover-эффекты, анимация при загрузке блоков страницы, слайдер, всплывающие окна при вводе данных, скачивание pdf-файлов при клике на кнопки. В адаптивной верстке под мобильные устройства использовались эффекты показа скрытых элементов при клике.
+Adaptive layout of the houses website. 
+The layout used pop-up menu when clicking on a burger, hover-effects, animation when loading page blocks, slider, pop-up windows when entering data, downloading pdf-files when clicking on buttons. Adaptive layout for mobile devices used the effects of showing hidden elements when clicking.
